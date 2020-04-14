@@ -1,0 +1,8 @@
+INFORMACIÓN: Starting test... [mar abr 14 14:23:15 COT 2020]
+INFORMACIÓN: 4fdf7065-0113-47a9-bf6c-af4e1ec1c2c4 Taking error screenshot, see above for the trace [mar abr 14 14:23:23 COT 2020]
+GRAVE: couldnt wait for the object waitObject Method is not implemented
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MLB3M2C', ip: '192.168.0.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {app: C:\\Users\\User\\Documents\..., appActivity: com.ba.universalconverter.M..., appPackage: com.ba.universalconverter, appWaitActivity: com.ba.universalconverter.M..., appWaitPackage: com.ba.universalconverter, databaseEnabled: false, desired: {app: C:\\Users\\User\\Documents\..., deviceName: ivan, platformName: android, platformVersion: 9}, deviceManufacturer: Xiaomi, deviceModel: Redmi Note 6 Pro, deviceName: cb21047d, deviceScreenSize: 1080x2280, deviceUDID: cb21047d, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, platform: LINUX, platformName: LINUX, platformVersion: 9, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: 9bf12593-6bb1-46db-9b43-65b72c053c8c [mar abr 14 14:23:25 COT 2020]
